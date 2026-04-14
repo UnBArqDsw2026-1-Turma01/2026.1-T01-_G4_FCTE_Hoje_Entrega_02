@@ -13,7 +13,7 @@
       - [2.2.2. Diagrama de Comunicação](/Modelagem/2.2.2.DiagramaDeComunicacao.md)
       - [2.2.3. Diagrama de Atividades](/Modelagem/2.2.3.DiagramaDeAtividades.md)
       - [2.2.4. Diagrama de Estado](/Modelagem/2.2.4.DiagramaEstado.md)
-    - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/2.2.3ModelagemOrganizacionalCasosDeUso.md)
+    - [2.3. Modelagem UML Organizacional ou Casos de Uso](/Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
       - [2.3.1 Diagrama de Casos de Uso](/Modelagem/2.3.1.DiagramaDeCasosDeUso.md)
       - [2.3.2 Diagrama de Pacotes](/Modelagem/2.3.2.DiagramaDePacotes.md)
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
