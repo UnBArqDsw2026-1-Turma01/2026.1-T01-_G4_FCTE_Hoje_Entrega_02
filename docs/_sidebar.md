@@ -19,3 +19,4 @@
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
       - [2.5.1. Atas de Reunião](/Atas/2.5.1.Atas_reuniao.md)
+      - [2.5.2. Ferramentas Utilizadas](/Modelagem/2.5.2.ferramentas_usadas.md)
