@@ -5,7 +5,7 @@ import unittest
 from pathlib import Path
 
 
-MARKDOWN_LINK_RE = re.compile(r"!?\\[[^\\]]*\\]\\(([^)]+)\\)")
+MARKDOWN_LINK_RE = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
 
 
 class DocsIntegrityTests(unittest.TestCase):
@@ -64,6 +64,8 @@ class DocsIntegrityTests(unittest.TestCase):
         if normalized == "/":
             return self.docs_root / "README.md"
         if normalized.startswith("/"):
+            if normalized.startswith("/docs/"):
+                normalized = normalized[len("/docs") :]
             target = self.docs_root / normalized.lstrip("/")
         else:
             target = source_file.parent / normalized
