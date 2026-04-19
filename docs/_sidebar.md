@@ -20,3 +20,4 @@
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
       - [2.5.1. Atas de Reunião](/Atas/2.5.1.Atas_reuniao.md)
       - [2.5.2. Ferramentas Utilizadas](/Modelagem/2.5.2.ferramentas_usadas.md)
+      - [2.5.3. Lista de Requisitos](/Modelagem/2.5.3.ListaRequisitos.md)
