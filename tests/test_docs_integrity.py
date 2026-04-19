@@ -55,7 +55,7 @@ class DocsIntegrityTests(unittest.TestCase):
         self.assertEqual([], missing_targets, f"Broken internal links: {missing_targets}")
 
     def _extract_markdown_links(self, content: str) -> list[str]:
-        return [match.strip() for match in MARKDOWN_LINK_RE.findall(content)]
+        return [url.strip() for url in MARKDOWN_LINK_RE.findall(content)]
 
     def _resolve_link(self, link: str, source_file: Path) -> Path | None:
         normalized = link.split("#", 1)[0].split("?", 1)[0].strip()
@@ -65,7 +65,7 @@ class DocsIntegrityTests(unittest.TestCase):
             return self.docs_root / "README.md"
         if normalized.startswith("/"):
             if normalized.startswith("/docs/"):
-                normalized = normalized[len("/docs") :]
+                normalized = normalized.removeprefix("/docs")
             target = self.docs_root / normalized.lstrip("/")
         else:
             target = source_file.parent / normalized
