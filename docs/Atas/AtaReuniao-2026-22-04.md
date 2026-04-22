@@ -33,7 +33,7 @@ Foi realizada uma sessão com o objetivo de criar o [Diagrama de Casos de Uso](.
 
 <p align="center"><strong>Figura 1: Diagrama de Casos de Uso do Leitor</strong></p>
 
-![Diagrama de Casos de Uso do Leitor](./Assets/DiagramaDeCasodeUso_Leitor.png)
+![Diagrama de Casos de Uso do Leitor](../Assets/DiagramaDeCasodeUso_Leitor.png)
 
 <p align="center"><em>Autor: <a href="https://github.com/ArthurGuilher62">Arthur Guilherme</a>, <a href="https://github.com/arthurhvieira1">Arthur Henrique</a>, <a href="https://github.com/KauaVL">Kauã Vale</a>, <a href="https://github.com/TiagoTeixeira-2005">Tiago Lemes</a> e <a href="https://github.com/VilmarFagundes">Vilmar Fagundes</a></em></p>
 
@@ -41,7 +41,7 @@ Foi realizada uma sessão com o objetivo de criar o [Diagrama de Casos de Uso](.
 
 <p align="center"><strong>Figura 2: Diagrama de Casos de Uso do Publicador</strong></p>
 
-![Diagrama de Casos de Uso do Publicador](./Assets/DiagramaDeCasodeUso_Publicador.png)
+![Diagrama de Casos de Uso do Publicador](../Assets/DiagramaDeCasodeUso_Publicador.png)
 
 <p align="center"><em>Autor: <a href="https://github.com/ArthurGuilher62">Arthur Guilherme</a>, <a href="https://github.com/arthurhvieira1">Arthur Henrique</a>, <a href="https://github.com/KauaVL">Kauã Vale</a>, <a href="https://github.com/TiagoTeixeira-2005">Tiago Lemes</a> e <a href="https://github.com/VilmarFagundes">Vilmar Fagundes</a></em></p>
 
