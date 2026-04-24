@@ -24,7 +24,26 @@ O **FCTE Hoje** é uma plataforma mobile desenvolvida para atender às necessida
 O projeto foi idealizado durante a disciplina de Arquitetura e Desenho de Software, no semestre 2026.1, e sua segunda entrega pode ser acessada por meio do seguinte repositório no [GitHub](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01-_G4_FCTE_Hoje_Entrega_02). 
 
 ## Screenshots da Segunda Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+<p align="center"><strong>Figura 1: Diagrama de Classes</strong></p>
+
+![Diagrama de Classes](./Assets/DiagramaDeClasses.png)
+
+<p align="center"><strong>Figura 2: Diagrama de Implantação</strong></p>
+
+![Diagrama de Implantação](./Assets/Diagrama_Implantacao.png)
+
+<p align="center"><strong>Figura 3: Diagrama de Atividades</strong></p>
+
+![Diagrama de Atividades](./Assets/DiagramaDeAtividades.png)
+
+<p align="center"><strong>Figura 4: Diagrama de Estado de Navegação Principal</strong></p>
+
+![Diagrama de Estado de navegação](./Assets/DiagramaDeEstado_Navegacao.png) 
+
+<p align="center"><strong>Figura 5: Diagrama de Casos de Uso do Leitor</strong></p>
+
+![Diagrama de Casos de Uso do Leitor](./Assets/DiagramaDeCasodeUso_Leitor.png)
 
 ## Há algo a ser executado?
 
